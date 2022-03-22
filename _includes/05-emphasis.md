@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My name is Yatharth*
+_My name is Yatharth_
+
+**My name is Yatharth**
+__My name is Yatharth__
+
+_My name is **Yatharth**_ 
